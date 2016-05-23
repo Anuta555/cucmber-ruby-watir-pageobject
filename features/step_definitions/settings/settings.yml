@@ -1,2 +1,2 @@
-browser: <%= ENV['BROWSER'] || "chrome" %>
+browser: <%= ENV['BROWSER'] || "firefox" %>
 ui_url: <%= ENV['UI_URL'] || "http://google.com/" %>
