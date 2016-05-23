@@ -1,11 +1,4 @@
 Feature: As a user I want to be able to search by artist name to see artist's info
-  Search results should return:
-    - recent news
-    - wiki page
-    - official website
-    - social media links
-    - images
-    - albums
 
   Background: Given I'm on Search page
 
