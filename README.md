@@ -4,13 +4,6 @@ Tools docs: [Cucumber](https://cucumber.io/), [Watir WebDriver](https://watirweb
 
 ## Running
 
-```
-bundle install
-rake features
-```
-
-### Setup
-
 1. Install required gems:
 ```bash
 $ bundle install
