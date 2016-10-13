@@ -1,6 +1,6 @@
 # Project template for Cucumber, Watir and PageObject
 
-Tools docs: [Cucumber](https://cucumber.io/), [Watir WebDriver](https://watirwebdriver.com/) and [Page Object gem](https://github.com/cheezy/page-object).
+Tools: [Cucumber](https://cucumber.io/), [Watir WebDriver](https://watirwebdriver.com/) and [Page Object gem](https://github.com/cheezy/page-object).
 
 ## Running
 
