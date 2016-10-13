@@ -4,12 +4,12 @@ Tools: [Cucumber](https://cucumber.io/), [Watir WebDriver](https://watirwebdrive
 
 ## Running
 
-1. Install required gems:
+Install required gems:
 ```bash
 $ bundle install
 ```
 
-2. Run the tests:
+Run the tests:
 ```bash
 $ cucumber
 ```
